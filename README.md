@@ -13,10 +13,9 @@
         />
       </p>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td style="padding: 10px;">
       <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
-        <p>
         - 🔭 Work: <strong>Intersev</strong><br />
         - 📫 Mail me: <a href="mailto:baral.rushan@gmail.com">baral.rushan@gmail.com</a><br />
         - 🌐 Linkedin: <a href="https://www.linkedin.com/in/rushan-baral/">in/rushan-baral</a><br />
