@@ -1,17 +1,27 @@
-# Hi 👋, I'm Rushan
+<h1 align="center">Hi 👋, I'm Rushan</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rlycano07&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rlycano07&color=blue" alt="Profile Views">
+</p>
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Intersev**.
-- 📫 Mail me: [baral.rushan@gmail.com](mailto:baral.rushan@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/rushan-baral/)
-- [Personal Website](https://rushan.netlify.app/)
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  - 🔭 I’m currently working on <strong>Intersev</strong>.<br>
+  - 📫 Mail me: <a href="mailto:baral.rushan@gmail.com">baral.rushan@gmail.com</a><br>
+  - <a href="https://www.linkedin.com/in/rushan-baral/">LinkedIn</a><br>
+  - <a href="https://rushan.netlify.app/">Personal Website</a>
+</p>
 
-### 💻 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlycano07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">💻 Top Languages</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlycano07&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+</p>
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlycano07&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-## 📫 Connect with me:
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlycano07&theme=radical&hide_border=true" alt="GitHub Streak">
+  </a>
+</p>
