@@ -13,15 +13,6 @@
         />
       </p>
     </td>
-    <td style="padding: 10px;">
-      <div style="text-align: center;">
-    <div style="display: inline-block; text-align: left;">
-        - 🔭 Work: <strong>Intersev</strong><br />
-        - 📫 Mail me: <a href="mailto:baral.rushan@gmail.com">baral.rushan@gmail.com</a><br />
-        - 🌐 Linkedin: <a href="https://www.linkedin.com/in/rushan-baral/">in/rushan-baral</a><br />
-        - 💻 Website: <a href="https://rushan.netlify.app/">rushan.netlify.app</a><br />
-      </div> </div>
-    </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
