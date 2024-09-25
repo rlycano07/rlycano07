@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Rushan
+# Hi 👋, I'm Rushan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rlycano07&color=blue)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Intersev**.
 - 📫 Mail me: [baral.rushan@gmail.com](mailto:baral.rushan@gmail.com)
-- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg) [LinkedIn](https://www.linkedin.com/in/rushan-baral/)
+- [LinkedIn](https://www.linkedin.com/in/rushan-baral/)
 - [Personal Website](https://rushan.netlify.app/)
 
 ### 💻 Top Languages
