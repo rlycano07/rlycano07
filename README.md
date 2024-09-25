@@ -5,7 +5,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <p align="center">
         <img
           src="https://komarev.com/ghpvc/?username=rlycano07&color=blue"
